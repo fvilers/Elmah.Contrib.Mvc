@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Elmah.Contrib.Mvc</id>
-    <version>2.0.1</version>
+    <version>2.1</version>
     <title>Elmah.Contrib.Mvc</title>
     <authors>Fabian Vilers</authors>
     <owners>fabian Vilers</owners>
@@ -12,13 +12,13 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Elmah.Contrib.Mvc was designed to add ease-of-use to Elmah inside ASP.NET MVC projects</description>
     <releaseNotes>
-	  Version 2.0.1: Restored support for .NET 4.0 and ASP.NET 4.0
+	  Version 2.1: Restored support for .NET 4.0 and ASP.NET 4.0
 	  Version 2.0: Updated for ASP.NET MVC 5.0 and Elmah Core library</releaseNotes>
     <copyright>Copyright 2013 Dev One</copyright>
     <tags>elmah Microsoft AspNet Mvc AspNetMvc</tags>
 	<dependencies>
       <dependency id="elmah.corelibrary" version="1.2.2" />
-	  <dependency id="Microsoft.AspNet.Mvc" version="5.0" />
+	  <dependency id="Microsoft.AspNet.Mvc" version="4.0" />
     </dependencies>
   </metadata>
   <files>
