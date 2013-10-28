@@ -19,6 +19,7 @@ Read this thread on Stack Overflow: [how to get ELMAH to work with ASP.NET MVC [
 
 Release notes
 -------------
+* Version 2.0.1: Restored support for .NET 4.0 and ASP.NET 4.0
 * Version 2.0: Updated for ASP.NET MVC 5.0 and Elmah Core library
 
 About the author
