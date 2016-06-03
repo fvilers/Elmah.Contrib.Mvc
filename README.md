@@ -4,9 +4,9 @@ Elmah.Contrib.Mvc was designed to add ease-of-use to Elmah inside ASP.NET MVC pr
 
 Installation
 ------------
-To install Fakes.Contrib, run the following command in the Package Manager Console
+To install Elmah.Contrib.Mvc, run the following command in the Package Manager Console
 
-	PM> Install-Package Fakes.Contrib
+	PM> Install-Package Elmah.Contrib.Mvc
 
 Usage
 -----
